@@ -1,0 +1,106 @@
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.AssemblyReference.cache
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.AssemblyInfoInputs.cache
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.AssemblyInfo.cs
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.exe
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.deps.json
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.runtimeconfig.json
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.runtimeconfig.dev.json
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.pdb
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Emgu.CV.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Emgu.CV.Bitmap.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\cvextern.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\cvextern.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.CopyComplete
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\refint\DatasetGenerator.dll
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.pdb
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.genruntimeconfig.cache
+C:\Users\Florian Wahl\source\repos\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\ref\DatasetGenerator.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.exe
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.deps.json
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.runtimeconfig.json
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.runtimeconfig.dev.json
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\DatasetGenerator.pdb
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Emgu.CV.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Emgu.CV.Bitmap.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\cvextern.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\cvextern.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\cvextern.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\concrt140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_1.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_2.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\vcruntime140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\concrt140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_1.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_2.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\concrt140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_1.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_2.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.AssemblyReference.cache
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.AssemblyInfoInputs.cache
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.AssemblyInfo.cs
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.CoreCompileInputs.cache
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.csproj.CopyComplete
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\refint\DatasetGenerator.dll
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.pdb
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\DatasetGenerator.genruntimeconfig.cache
+D:\Github_repos\DatasetGenerator\DatasetGenerator\DatasetGenerator\obj\Debug\net5.0\ref\DatasetGenerator.dll

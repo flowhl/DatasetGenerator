@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatasetGenerator", "DatasetGenerator\DatasetGenerator.csproj", "{86537444-1360-458F-B8F1-6C38D732EBFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C71D9FD5-FF24-4DAC-9DB0-42B231582F21}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86537444-1360-458F-B8F1-6C38D732EBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86537444-1360-458F-B8F1-6C38D732EBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86537444-1360-458F-B8F1-6C38D732EBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86537444-1360-458F-B8F1-6C38D732EBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7687F12E-9BDE-4507-859C-E3B5EDD584BA}
+	EndGlobalSection
+EndGlobal
